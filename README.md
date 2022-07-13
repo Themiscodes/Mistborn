@@ -17,7 +17,7 @@ Mistborn is a terminal-based role-playing game I created with the purpose of tak
 
 * The basic structure of a round is in main.cpp and the functions responsible for the user interaction in messages.cpp. 
 
-* The rest of the files contain the objects of the game in separate classes that inherit from each other accordingly, 
+* The rest of the files contain the objects of the game in separate classes that inherit from each other accordingly. 
 
 ### Gameplay
 Mistborn being a text-based strategy game the player is presented with options in each round. They can move through the grid, encounter monsters and battle them, access their inventory or map, equip themselves with a weapon or armour, take potions and visit a market to buy or sell items. 
